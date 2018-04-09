@@ -1,0 +1,71 @@
+﻿  pro.cpp
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(21): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(24): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(25): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(87): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(88): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(89): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(90): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(462): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(463): error C2146: 语法错误: 缺少“)”(在标识符“p_tmp”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(463): error C2146: 语法错误: 缺少“;”(在标识符“p_tmp”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\wall.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\bullet.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\bullet.h(11): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\bullet_list.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(6): warning C4005: “ENDL”: 宏重定义
+  c:\users\ooho\onedrive\code\tank1.0\tank1.0\public.h(12): note: 参见“ENDL”的前一个定义
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(162): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(163): error C2146: 语法错误: 缺少“)”(在标识符“gotoXY”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(163): error C2146: 语法错误: 缺少“;”(在标识符“gotoXY”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(169): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(170): error C2146: 语法错误: 缺少“)”(在标识符“gotoXY”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(170): error C2146: 语法错误: 缺少“;”(在标识符“gotoXY”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(176): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(177): error C2146: 语法错误: 缺少“)”(在标识符“gotoXY”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(177): error C2146: 语法错误: 缺少“;”(在标识符“gotoXY”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(182): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(183): error C2146: 语法错误: 缺少“)”(在标识符“gotoXY”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(183): error C2146: 语法错误: 缺少“;”(在标识符“gotoXY”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(213): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(214): error C2146: 语法错误: 缺少“)”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(214): error C2146: 语法错误: 缺少“;”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(215): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(216): error C2146: 语法错误: 缺少“)”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(216): error C2146: 语法错误: 缺少“;”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(217): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(218): error C2146: 语法错误: 缺少“)”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(218): error C2146: 语法错误: 缺少“;”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(219): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(220): error C2146: 语法错误: 缺少“)”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(220): error C2146: 语法错误: 缺少“;”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(221): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(222): error C2146: 语法错误: 缺少“)”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(222): error C2146: 语法错误: 缺少“;”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(223): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(225): error C2146: 语法错误: 缺少“)”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(225): error C2146: 语法错误: 缺少“;”(在标识符“goto_debug_board”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(241): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(243): error C2146: 语法错误: 缺少“)”(在标识符“SetConsoleTextAttribute”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(243): error C2146: 语法错误: 缺少“;”(在标识符“SetConsoleTextAttribute”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\map_maker.h(342): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\tank_enermy.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\index.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\index.h(41): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\index.h(44): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp(30): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp(149): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp(163): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp(626): error C2001: 常量中有换行符
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp(628): error C2146: 语法错误: 缺少“)”(在标识符“corner”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp(628): error C2146: 语法错误: 缺少“;”(在标识符“corner”的前面)
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp(654): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp(685): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+c:\users\ooho\onedrive\code\tank1.0\tank1.0\pro.cpp(691): warning C4838: 从“int”转换到“SHORT”需要收缩转换
